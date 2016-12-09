@@ -36,4 +36,4 @@ This is too strong(not account non-determnism like reorderings, crashes)
 ##Strength
 * counter-example based debugging is better than Proof
 * The specification are succinct, expressive,and free of implementation => reusable
-
+* Generalized to applications that use disk in other ways (e.g. copy)
