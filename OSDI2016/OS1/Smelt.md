@@ -14,4 +14,6 @@ NUMA: a group of CPU has shared local MEM. All groups are connected by crossbar.
 Shortcoming: latency of remote MEM access is much longer than local MEM access
 
 ###`MPP`:Massive Parallel Processing
+group of SMP
 
+Only local MEM access within a SMP, No remote MEM access among SMPs.
