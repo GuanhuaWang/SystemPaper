@@ -19,7 +19,7 @@ group of SMP
 Only local MEM access within a SMP, No remote MEM access among SMPs.
 
 ##Difference in messaging among nodes and cores
-![Difference in message passing](multicore-message.png)
+!](multicore-message.png)
 ##Problem
 Generating a good tree structure for multi-core broadcasting is important.
 
@@ -27,4 +27,6 @@ Multi-core hardware is complex => hard to generate a tree that one fits all solu
 
 #How to generate tree
 * gathering messaging latency among cores
-![Latency matrix](latency-matrix.png)
+![](latency-matrix.png)
+
+* Tree generating heuristics 
