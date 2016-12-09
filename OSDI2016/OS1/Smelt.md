@@ -1,5 +1,5 @@
 #Machine-aware Atomic Broadcast Trees for Multicores
-#background
+##background
 `SMP`: Symmetric Multi-Processor 
 
 all the cores are equal, and share all resources. 
@@ -7,5 +7,6 @@ If multiple requests from differnt cores on RAM => serialize access
 
 `NUMA`: Non-Uniform Memory Access
 
-ddd
+SMP => limited scalibility (CPU :arrow_up: => conflict in Access MEM :arrow_up:)
+
 
