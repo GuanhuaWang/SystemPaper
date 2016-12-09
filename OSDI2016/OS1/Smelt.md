@@ -30,3 +30,4 @@ Multi-core hardware is complex => hard to generate a tree that one fits all solu
 ![](latency-matrix.png)
 
 * Tree generating heuristics 
+[![](tree-gen.png "我的知乎，欢迎关注")][zhihu]
