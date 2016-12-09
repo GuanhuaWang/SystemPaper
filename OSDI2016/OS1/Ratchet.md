@@ -9,3 +9,6 @@ Intermittent computation => write after read (WAR)
 
 #strength
 * WAR(caused by intermittent) correction without hardware modification, or burdening programmer
+
+#problem
+* How to handel checkpointing failure => dulicated checkpoiting write, ensure atomic write
