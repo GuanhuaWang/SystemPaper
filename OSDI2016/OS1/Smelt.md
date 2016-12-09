@@ -17,3 +17,8 @@ Shortcoming: latency of remote MEM access is much longer than local MEM access
 group of SMP
 
 Only local MEM access within a SMP, No remote MEM access among SMPs.
+
+##Problem
+Generating a good tree structure for multi-core broadcasting is important.
+
+Multi-core hardware is complex => hard to generate a tree that one fits all solution
