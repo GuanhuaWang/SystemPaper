@@ -11,3 +11,6 @@ Decouple memory, privileges from thread, and reuse thread.
 *light-weight context*: within a process, maintain isolation of virtual memory mapping, file descriptor bindings etc.
 
 lwc orthogonal to threads. a tread may start lwc a, then switch to lwc b.
+
+##benefit
+lwc are not associated with threads.We can run untrusted code on it
