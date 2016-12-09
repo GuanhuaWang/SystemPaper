@@ -6,7 +6,8 @@ File system verfication is hard to prove (takes manually in years)
 => Yggdrasil produce a counter example if there is a bug. No need proof.
 
 ##How it works
-dfadf
+'Crash Refinement': capture non-determinism bugs (e.g. reordering of writes)
+Crash Refinement
 
 ##Strength
 * counter-example based debugging is better than Proof
