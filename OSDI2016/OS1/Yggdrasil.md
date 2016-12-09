@@ -13,7 +13,7 @@ File system verfication is hard to prove (takes manually in years)
 
 Speicificaition => SMT problem solver: 
 
-To make SMT a push-button solution => *layering*
+To make SMT scale up solution => *layering*
 
 exhausting all execution path within a layer, avoiding path explosion between layers.
 
