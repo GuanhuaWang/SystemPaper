@@ -11,6 +11,8 @@ File system verfication is hard to prove (takes manually in years)
 
 `Crash Refinement` is achieved by a *satisfiablility modulo theories* (SMT) solver (Z3).
 
+Speicificaition => SMT problem solver
+
 To make SMT a push-button solution => *layering*
 
 exhausting all execution path within a layer, avoiding path explosion between layers.
