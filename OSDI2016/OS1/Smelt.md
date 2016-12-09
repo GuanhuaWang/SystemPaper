@@ -18,6 +18,8 @@ group of SMP
 
 Only local MEM access within a SMP, No remote MEM access among SMPs.
 
+##Difference in messaging among nodes and cores
+[![](multicore-message.png "我的知乎，欢迎关注")][zhihu]
 ##Problem
 Generating a good tree structure for multi-core broadcasting is important.
 
