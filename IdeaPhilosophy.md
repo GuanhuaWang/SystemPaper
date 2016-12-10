@@ -3,3 +3,5 @@ We can step backword and set them with more freedom, less restrictions.
 
 Design system without specific model.
 Give design more dimention of freedom.
+
+We can leverage more attributes or characteristics of user's applications
