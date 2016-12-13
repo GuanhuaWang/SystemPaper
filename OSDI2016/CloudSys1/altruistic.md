@@ -9,3 +9,8 @@ ensure performance isolation, while has good JCT and cluster utilization
 
 Intra-job: since they have DAG for each job, compute how much leftover they can provide.
 Inter-job: using leftover, 1 schedule tasks closet to completion, 2 packing remaining for cluster efficiency.
+
+
+##they need prove
+Altruism will not inflate the JCT
+
