@@ -8,3 +8,6 @@
 Existing: A task is scheduled after all its parents finished
 
 Graphene: identify troublesome tasks first and place them, then place other tasks around the troupble 
+
+# Example of different scheduling
+![](graphene_eg.png)
