@@ -20,6 +20,6 @@ Developer invoke operation and get multiple incremental views on the results.
 
 Firs view is the low latency (weak consistency) one, and then higher latency (better consistency), so on and so forth.
 
-# Key takeaway
+## Key takeaway
 
-Make discrete/binary things into continuous.
+#Make discrete/binary things into continuous.
