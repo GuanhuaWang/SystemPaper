@@ -27,9 +27,9 @@ SNOW is tight, only nay combination of 3 are possible.
 
 To make reads as fast as possible, we need to shift as much coordiation overhead as possible to wirtes.
 
-They make trade off among those 4 SNOW properties.
-
 ## What they are doing
 A slightly weaker consistency `process-ordered` serializability without breaking the other three properties.
+
 `COPS-SNOW`: add "O" to COPS (which only has "N")
+
 `Recoco-SNOW`: add "O" to Recoco (which has "S+W")
