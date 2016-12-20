@@ -13,6 +13,8 @@ Determine cuts in the distributed execution.
 
 Generate persistent states corresponding to those cuts.
 
+Then make the states pruning to increase efficiency.
+
 Recover based on cuts
 
 
