@@ -22,4 +22,4 @@ Firs view is the low latency (weak consistency) one, and then higher latency (be
 
 ## Key takeaway
 
-#Make discrete/binary things into continuous.
+###Make discrete/binary things into continuous.
