@@ -1,6 +1,8 @@
 #Realizing the fault-tolerance promise of cloud storage using locks with intent
 
 #Problem
+In cloud compuation over distributed file system
+
 Application can fail => networking reorder/drop messages in underline storage. 
 
 Lower-level API => Current storage operation can fail.
