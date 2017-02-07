@@ -10,6 +10,7 @@ The key latency they claim is the network latency in WAN. It leverage some conce
 
 
 Therefore, they did some network aware query placement and scheduling. For exmaple, they tries to first schedule queries that happens between two DC with higher network throughput. And late scheduling the queires that both party/DC share low bandwidth.
-For iterative jobs, they use shortest job first scheudling algorithm to achieve low latency.
+
+For iterative jobs, previously people use shortest job first scheudling algorithm to achieve low latency. They find that some links are under-utilized with SJF. Therefore, they try to enable more parallel data communication in the netowrk to achieve overall low lantency among all the DCs.That is to identify k shorest job instead of 1, and then schedule them in parallel.
 
 
