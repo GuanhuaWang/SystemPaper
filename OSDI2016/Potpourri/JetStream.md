@@ -9,3 +9,7 @@ Parallelizing DIFT is hard. Because of sequential dependencies.
 ##solution:
 Time slice execution into Epochs
 ![](local.png)
+
+Here is a specific exmaple of how it works.
+
+!(local2.png)
