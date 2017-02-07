@@ -13,3 +13,6 @@ Time slice execution into Epochs
 Here is a specific exmaple of how it works.
 
 ![](local2.png)
+
+
+By split execution into epochs. We can parallel DIFT as a parallel streaming processing unit. 
