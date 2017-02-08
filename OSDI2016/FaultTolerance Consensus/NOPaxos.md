@@ -4,4 +4,8 @@ Paxos overhead is sequencial copy data (e.g. first leader replica, then second r
 
 ![](paxos.png)
 
-THe delay and 
+THe delay is illstrated in the figure.
+
+Therefore, to mitigate this copy data to replica delay, the authors propose to use *multicast* for fast `inorder` data transmission, and also let host to ensure the data *reliability*, which is shown as the picture below.
+
+![](multicast.png)
