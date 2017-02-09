@@ -9,4 +9,6 @@ BFT (Byzantine fault tolerance) can deal with non-crash fault. However, its over
 
 No need assumption of BFT that the adversaries are that powerful.
 
-Reduce latency: (totoal 2t+1 replicas) Xpaxos only synchronously replicate clienets request to only t+1 replicas. the other n passive replicas are using *lazy replication approach*
+Reduce latency: (totoal 2t+1 replicas) Xpaxos only synchronously replicate clienets request to only t+1 replicas `active`. the other n `passive` replicas are using *lazy replication approach*
+
+Difference from CFT or BFT: generate views using all the t+1 active
