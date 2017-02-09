@@ -3,12 +3,14 @@
 #Problem
 In cloud compuation over distributed file system
 
-Application can fail => networking reorder/drop messages in underline storage. 
+Failures: 
+* Application can fail => networking reorder/drop messages in underline storage. 
 
-Lower-level API => Current storage operation can fail.
+* Lower-level API => Current storage operation can fail.
 
 We need data consistency over concurrent operations on cloud storage state + failure of VM running applications. The basic idea is a do replication with paxos, in order to achieve data consistency over VMs.
 
+However, it is a waste of storage. They try to use lock to ensure fault
 
 #Solution
 `lock with intent` combine computation with storage operation, using lock
