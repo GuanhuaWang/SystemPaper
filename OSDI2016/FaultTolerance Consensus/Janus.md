@@ -12,7 +12,7 @@ one RTT coordination for both concurrency control & consensus. In addition, for 
 ![](1rtt.png)
 
 When contention of same transaction happens, Janus ensure no abortion of the commits while may need 2 RTT for replication transactions.
-1[](2rtt.png)
+![](2rtt.png)
 
 
 ## Key takeaway
