@@ -9,8 +9,10 @@ Therefore, we need 2 coordiantion in cross-datacenter. one for concurrency contr
 
 one RTT coordination for both concurrency control & consensus. In addition, for contention of differnt transactions, Janus can handle it well via ensuring determinsitci execution re-ordering.
 
-When contention of same transaction happens, Janus ensure no abortion of the commits while may need 2 RTT for replication transactions.
+![](1rtt.png)
 
+When contention of same transaction happens, Janus ensure no abortion of the commits while may need 2 RTT for replication transactions.
+1[](2rtt.png)
 
 
 ## Key takeaway
