@@ -10,7 +10,7 @@ Failures:
 
 We need data consistency over concurrent operations on cloud storage state + failure of VM running applications. The basic idea is a do replication with paxos, in order to achieve data consistency over VMs.
 
-However, it is a waste of storage. They try to use lock to ensure fault
+However, it is a waste of storage. They try to use lock on storage layer to ensure fault-tolerance.
 
 #Solution
 `lock with intent` combine computation with storage operation, using lock
