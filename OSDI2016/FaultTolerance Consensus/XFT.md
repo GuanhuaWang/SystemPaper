@@ -2,3 +2,11 @@
 
 ##Problem
 Current fault tolerent scheme are CFT (Crash fault-tolerent). Therefore they cannot deal with non-crash fault, like malicious behavior.
+
+BFT (Byzantine fault tolerance) can deal with non-crash fault. However, its overhead is too high compared with CFT.
+
+##XFT(cross fault tolerant)
+
+No need assumption of BFT that the adversaries are that powerful.
+
+Reduce latency: (totoal 2t+1 replicas) Xpaxos only synchronously replicate clienets request to only t+1 replicas. the other n passive replicas are using *lazy replication approach*
