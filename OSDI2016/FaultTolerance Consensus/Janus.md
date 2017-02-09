@@ -11,3 +11,8 @@ one RTT coordination for both concurrency control & consensus. In addition, for 
 
 When contention of same transaction happens, Janus ensure no abortion of the commits while may need 2 RTT for replication transactions.
 
+
+
+## Key takeaway
+We need to consider separation of one unique move. Like TCP using SlowStart and AMID for both congestion control and fairness. So dina katabi seperate congestion control and fairness control to ensure better system performance. 
+
