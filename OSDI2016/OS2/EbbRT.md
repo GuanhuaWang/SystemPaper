@@ -11,3 +11,5 @@ Pretty much like the SDN layers.
 * Low-level event-driven exe environment
 * Heterogeneous distributed system architecture
 * Elastic building blocks
+
+They show an exmaple of how EbbRt can be more efficient compared with Linux Memchached.
