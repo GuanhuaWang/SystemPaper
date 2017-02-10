@@ -21,3 +21,4 @@ Ingens monitor spatial uitlization of each huge page region, and enable utilizat
 
 ##What we can learn the design philosophy
 * Reduce Latency => put high latency work into background
+* Find more space => find assign unit, Check whether it is fully used. If not, try to fully utilize it.
