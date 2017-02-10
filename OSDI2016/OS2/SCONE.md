@@ -5,4 +5,5 @@ both cloud provider and users are not trust each other. Previous works on cloud 
 
 ##Design
 * Enhanced C library => small TCB
-* Asynchronous system call reduce No. of enclave exits
+* Asynchronous system call & user space threading => reduce No. of enclave exits
+* Network & file system shield => actively protect user data
