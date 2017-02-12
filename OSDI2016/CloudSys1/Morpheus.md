@@ -8,7 +8,7 @@ try to make the job performance more predictable,especially for the periods task
 2 `Inherent` perforamnce variablity caused by source code, data size different,etc.
 
 
-## How they did
+## How they did it
 1. Automatic inference: Inferring SLOs and modeling job resources demands. How:  derive target SLO by analysis historical execution trace.
 
 2. Recurring Reservation: reserve resources based on the derived SLO (handle `sharing-induced` bias/varience)
