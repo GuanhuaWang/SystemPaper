@@ -29,3 +29,7 @@ It is questionable that machine learning could predict something that people can
 2. small files (master a bottleneck)
 3. clients may see stale data
 4. appends maybe duplicated
+
+###strong consistency(primary/backup replication)
+####deterministic replay
+two phases: logging and replay
