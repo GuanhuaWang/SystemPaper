@@ -22,6 +22,7 @@ It is questionable that machine learning could predict something that people can
 1. huge sequential reads and writes appends
 2. huge throughput (3 copies, striping)
 3. fault tolerance of data (3 copies)
+
 ###bad
 
 1. fault-tolerance of master
