@@ -36,3 +36,5 @@ two phases: logging and replay
 
 1. Log all hardware events into a log
 2. Replay: delivery inputs in the same order at the same instructions
+
+limitation:can only use single core, not multi-core, since interleaving instructions is hard.
