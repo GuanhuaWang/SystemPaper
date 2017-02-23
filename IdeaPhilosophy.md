@@ -33,3 +33,6 @@ It is questionable that machine learning could predict something that people can
 ###strong consistency(primary/backup replication)
 ####deterministic replay
 two phases: logging and replay
+
+1. Log all hardware events into a log
+2. Replay: delivery inputs in the same order at the same instructions
