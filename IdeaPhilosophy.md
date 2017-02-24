@@ -38,3 +38,11 @@ two phases: logging and replay
 2. Replay: delivery inputs in the same order at the same instructions
 
 limitation:can only use single core, not multi-core, since interleaving instructions is hard.
+
+## VM - fault tolerent
+1 Prime, 1 backup.
+
+Using log to communicate and sync. 
+
+* backup do all the steps in prime, but without the final output.
+* to ensure that backup can always get the full log file, the prime send out output after backup reply log success.
