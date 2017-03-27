@@ -9,4 +9,6 @@ If another client (client B) want to open the modified file, it need a getattr R
 ##How to achieve speculative execution
 Client A asynchronously executes write and commit RPC, and make them in flight, speculating all modifications are up-to-date.
 
-Client B asynchronously executes getattr, and file speculating its cached copy is up-to-date
+Client B asynchronously executes getattr, and file speculating its cached copy is up-to-date.
+
+
