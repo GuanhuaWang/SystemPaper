@@ -14,6 +14,6 @@ https://dzone.com/articles/heap-vs-heap-memory-usage
 
 
 ### Distributed GPU
-data parallelism:
+data parallelism: SIMD BSP (e.g. Spark/Hadoop)
 
 model parallelism:
