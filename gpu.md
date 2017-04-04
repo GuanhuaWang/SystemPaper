@@ -13,3 +13,9 @@ Network bounded.
 a socket abstraction for GPU to directly access NIC
 
 ring buffer: 1) for queue with fixed maximum size. 2) well-suited for FIFO, whereas non-circular buffer suited for LIFO.
+
+## Adam (MSR)
+
+* model parallel, data parallel. 
+
+* Try to partition data into l3 cache. 
