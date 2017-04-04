@@ -20,4 +20,6 @@ ring buffer: 1) for queue with fixed maximum size. 2) well-suited for FIFO, wher
 
 * Try to partition data into l3 cache. 
 
-* converlution layer: periodic checkpointing........    Fully connected layer: send activate & error gredient vector instead of Weight Matrix.
+* converlution layer: periodic checkpointing
+
+* Fully connected layer: send activate & error gredient vector instead of Weight Matrix.
