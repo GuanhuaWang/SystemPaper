@@ -28,3 +28,8 @@ ring buffer: 1) for queue with fixed maximum size. 2) well-suited for FIFO, wher
 ## explore bounded staleness data in ML
 
 * reduce communication => using stale parameters and update the parameters after X round of iteration.
+
+
+## Google Tensor evaluation
+
+https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-TPU-our-first-machine-learning-chip.html
