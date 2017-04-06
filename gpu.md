@@ -42,5 +42,5 @@ Parameters: shard of parameters maintain on local single machine, each machine a
 
 
 ## Exploring iterative-ness
-
+leveraging repeat pattern of shared data (i.e. parameters in ML)
 
