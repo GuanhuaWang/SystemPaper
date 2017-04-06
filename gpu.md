@@ -33,3 +33,7 @@ ring buffer: 1) for queue with fixed maximum size. 2) well-suited for FIFO, wher
 ## Google TPU evaluation
 
 https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-TPU-our-first-machine-learning-chip.html
+
+## GeePS (eurosys16)
+
+GPU/CPU data movement in the background. (staging, pipeline) partial data movement.
