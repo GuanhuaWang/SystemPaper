@@ -37,3 +37,5 @@ https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-
 ## GeePS (eurosys16)
 
 GPU/CPU data movement in the background. (staging, pipeline) partial data movement.
+
+Parameters: shard of parameters maintain on local single machine, each machine also maintain a stale global parameter cache. (May use P2P communication)
