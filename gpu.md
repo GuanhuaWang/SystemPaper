@@ -44,3 +44,4 @@ Parameters: shard of parameters maintain on local single machine, each machine a
 ## Exploring iterative-ness
 leveraging repeat pattern of shared data (i.e. parameters in ML)
 
+parameter server: no state update conflicts. the weights can be updated in any order within a CLOCK.
