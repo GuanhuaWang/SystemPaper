@@ -48,4 +48,5 @@ parameter server: no state update conflicts. the weights can be updated in any o
 
 ## parameter server (Mu Li)
 
+*machine learning MapReduce parameter server*
 
