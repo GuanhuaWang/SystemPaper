@@ -66,3 +66,7 @@ Whereas STRADS decouple data and control plan. Either in Ring structure or Pipel
 
 
 ## Distributed GraphLab (VLDB 2012)
+
+Serializability:
+
+![]pg.gpawef
