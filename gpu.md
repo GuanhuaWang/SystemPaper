@@ -74,3 +74,8 @@ Full Consistency: update function has complete read-write access to its entire s
 Edge consistency: update function has read access to adjacent vetices.
 
 Vertex consistency: write access to central vertex data
+
+
+Color step: satisfy edge consistency model using vertex coloring. Assign color to each vertex such taht no adjacent vetices share same color.
+
+After color step. we can synchronously executing all vertices with same color.
