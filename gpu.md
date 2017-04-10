@@ -69,4 +69,4 @@ Whereas STRADS decouple data and control plan. Either in Ring structure or Pipel
 
 Serializability:
 
-![]pg.gpawef
+![](consistency.png)
