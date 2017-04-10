@@ -69,4 +69,8 @@ Whereas STRADS decouple data and control plan. Either in Ring structure or Pipel
 
 Serializability:
 
-![](consistency.png)
+Full Consistency: update function has complete read-write access to its entire scope.
+
+Edge consistency: update function has read access to adjacent vetices.
+
+Vertex consistency: write access to central vertex data
