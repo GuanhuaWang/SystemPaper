@@ -63,3 +63,6 @@ STRADS: model parallel instead of Data parallel.
 
 Parameter server: couple data and control plan.....
 Whereas STRADS decouple data and control plan. Either in Ring structure or Pipeline data processing over communication
+
+
+## Distributed GraphLab (VLDB 2012)
