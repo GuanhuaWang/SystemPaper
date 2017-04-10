@@ -60,3 +60,6 @@ SSP (stale synchronous parallel): book-keeping on deviation between workers.
 STRADS: control pipeline depth.
 
 STRADS: model parallel instead of Data parallel.
+
+Parameter server: couple data and control plan.....
+Whereas STRADS decouple data and control plan. Either in Ring structure or Pipeline data processing over communication
