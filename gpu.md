@@ -77,6 +77,12 @@ Vertex consistency: write access to central vertex data
 
 ### color step to verify edge consistency
 
-Color step: satisfy edge consistency model using vertex coloring. Assign color to each vertex such taht no adjacent vetices share same color.
+Color step (NP-hard, thus using greedy method): 
+
+1. edge consistency => Assign color to each vertex such taht no adjacent vetices share same color.
+
+2. Full consistency => no vertex share same color as any of its distance two neighbors.
+
+3. Vertex consistency => all vertics in one color.
 
 After color step. we can synchronously executing all vertices with same color.
