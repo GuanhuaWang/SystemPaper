@@ -53,3 +53,7 @@ parameter server: no state update conflicts. the weights can be updated in any o
 ## STRADS: A Distributed Framework for Scheduled Model Parallel Machine Learning
 
 improve convergence speed of model parallel ML at scale
+
+### control parameter staleness:
+SSP (stale synchronous parallel): book-keeping on deviation between workers.
+
