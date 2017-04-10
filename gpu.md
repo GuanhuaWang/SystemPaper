@@ -57,3 +57,4 @@ improve convergence speed of model parallel ML at scale
 ### control parameter staleness:
 SSP (stale synchronous parallel): book-keeping on deviation between workers.
 
+STRADS: control pipeline depth.
