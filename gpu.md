@@ -58,3 +58,5 @@ improve convergence speed of model parallel ML at scale
 SSP (stale synchronous parallel): book-keeping on deviation between workers.
 
 STRADS: control pipeline depth.
+
+STRADS: model parallel instead of Data parallel.
