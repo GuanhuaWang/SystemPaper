@@ -75,6 +75,7 @@ Edge consistency: update function has read access to adjacent vetices.
 
 Vertex consistency: write access to central vertex data
 
+### color step to verify edge consistency
 
 Color step: satisfy edge consistency model using vertex coloring. Assign color to each vertex such taht no adjacent vetices share same color.
 
