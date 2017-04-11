@@ -92,3 +92,5 @@ After color step. we can synchronously executing all vertices with same color.
 ## My thoughts
 
 Reduce to parameter server. Hash function, guarentee M concurrent data transmission between clients and parameter server. Others using their local stale parameters.
+
+Data staleness v.s. networking latency
