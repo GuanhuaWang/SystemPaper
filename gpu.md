@@ -86,3 +86,9 @@ Color step (NP-hard, thus using greedy method):
 3. Vertex consistency => all vertics in one color.
 
 After color step. we can synchronously executing all vertices with same color.
+
+
+
+## My thoughts
+
+Reduce to parameter server. Hash function, guarentee M concurrent data transmission between clients and parameter server. Others using their local stale parameters.
