@@ -94,3 +94,10 @@ After color step. we can synchronously executing all vertices with same color.
 Reduce to parameter server. Hash function, guarentee M concurrent data transmission between clients and parameter server. Others using their local stale parameters.
 
 Data staleness v.s. networking latency
+
+
+# GPU shortcoming
+
+1. small GPU memeory
+
+2. Expensive memory copy between GPU mem and CPU mem
