@@ -102,6 +102,8 @@ Reduce to parameter server. Hash function, guarentee M concurrent data transmiss
 
 2. Expensive memory copy between GPU mem and CPU mem
 
+3. Data-parallelism has benefits, but network communications overhead quickly limited scalability.
+
 
 ## Why we need parameter server?
 
