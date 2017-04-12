@@ -96,8 +96,15 @@ Reduce to parameter server. Hash function, guarentee M concurrent data transmiss
 
 ### Using rateless code (e.g. Spinal coding) to achieve load balancing or congestion control.
 
-# GPU shortcoming
+## GPU shortcoming
 
 1. small GPU memeory
 
 2. Expensive memory copy between GPU mem and CPU mem
+
+
+## Why we need parameter server?
+
+https://www.quora.com/What-is-the-Parameter-Server
+
+In a nutshell, it is more likely to be a shared blackboard.
