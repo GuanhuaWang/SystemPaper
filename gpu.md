@@ -110,3 +110,10 @@ Reduce to parameter server. Hash function, guarentee M concurrent data transmiss
 https://www.quora.com/What-is-the-Parameter-Server
 
 In a nutshell, it is more likely to be a shared blackboard.
+
+
+
+## my thought 04/12/2017
+
+SplitStream tree depth == stale data clock bound
+
