@@ -117,3 +117,4 @@ In a nutshell, it is more likely to be a shared blackboard.
 
 SplitStream tree depth == stale data clock bound
 
+WHY not P2P over workers: small messages transmission are evil. It is very difficult to keep data consistency.
