@@ -12,3 +12,7 @@
 build a two layer architecture of streams under global log.
 
 vCorfu sequencer not only track the tail of the global log, but also the tail of each stream.
+
+client get two address 1) global address 2) stream address.
+
+Client write to log replica using global address, and write to stream replica using stream ID and stream address.
