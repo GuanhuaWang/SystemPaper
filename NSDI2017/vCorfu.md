@@ -16,3 +16,11 @@ vCorfu sequencer not only track the tail of the global log, but also the tail of
 client get two address 1) global address 2) stream address.
 
 Client write to log replica using global address, and write to stream replica using stream ID and stream address.
+
+### overhead
+
+more commit log (since we need to not only write to global log, but also stream log), but it pay back.
+
+### benefit
+
+now we can access log on only one replica (stream replica), instead of multiple replica belong to global log servers.
