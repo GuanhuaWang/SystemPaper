@@ -5,3 +5,10 @@
 1. clients can't read latest data. (cuz log only stores incremental updates) => playback is the bottleneck
 
 2. 
+
+
+## vCorfu
+
+build a two layer architecture of streams under global log.
+
+vCorfu sequencer not only track the tail of the global log, but also the tail of each stream.
