@@ -13,13 +13,5 @@ It is questionable that machine learning could predict something that people can
 https://dzone.com/articles/heap-vs-heap-memory-usage
 
 
-### Distributed GPU
-data parallelism: SIMD BSP (e.g. Spark/Hadoop)
 
-model parallelism:
 
-### Poseidon (Eric Xing)
-
-https://github.com/sailing-pmls/poseidon
-
-data transmission: partical data transmission (partial gradient Tx/Rx in Client-Server): One layer Tx/Rx instead of all layer data transmission.
