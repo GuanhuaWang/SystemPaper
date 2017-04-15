@@ -6,4 +6,4 @@
 
 It is a good insight. For customer recommendation, items are high degree vertex, whereas users are low degree vertex. Therefore, scan items will reduce less random memory access.
 
-3. mini batch
+3. mini batch in Graph modeling
