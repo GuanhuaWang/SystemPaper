@@ -1,4 +1,4 @@
-#History-Based Harvesting of Spare Cycles and Storage in Large-Scale Datacenters
+# History-Based Harvesting of Spare Cycles and Storage in Large-Scale Datacenters
 ![](history.png)
 
 * Using history to find out the under-utilized part of the cluster, and use it
