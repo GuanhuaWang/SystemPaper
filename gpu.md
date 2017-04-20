@@ -132,3 +132,8 @@ WHY not P2P over workers: small messages transmission are evil. It is very diffi
 erasure code :  (m+k) data split... pick fastest top m from it.   mitigate staleness of processing.
 
 fine scale parallelism
+
+
+## rhythm
+
+The key insight is, given an incoming stream of requests, a server could delay some requests in order to align the execution of similar requests—allowing them to execute concurrently.
