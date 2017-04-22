@@ -137,3 +137,6 @@ fine scale parallelism
 ## rhythm
 
 The key insight is, given an incoming stream of requests, a server could delay some requests in order to align the execution of similar requests—allowing them to execute concurrently.
+
+
+# How to use parameter server
