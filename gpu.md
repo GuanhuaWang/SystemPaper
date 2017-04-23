@@ -140,3 +140,4 @@ The key insight is, given an incoming stream of requests, a server could delay s
 
 
 # How to use parameter server
+http://pmls.readthedocs.io/en/latest/installation.html
