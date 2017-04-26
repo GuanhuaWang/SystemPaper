@@ -144,3 +144,8 @@ http://pmls.readthedocs.io/en/latest/installation.html
 
 
 ### find more application scenarios.
+
+
+## Hemingway
+
+Mini-Batch (size b) SGD will introduce (root square of b) training error, compared with sequencial one-by-one data processing.
