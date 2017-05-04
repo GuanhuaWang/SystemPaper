@@ -151,4 +151,5 @@ http://pmls.readthedocs.io/en/latest/installation.html
 Mini-Batch (size b) SGD will introduce (root square of b) training error, compared with sequencial one-by-one data processing.
 
 ### main idea
+
 Window based prediction of Loss function, give 50 iteration info., predict 51 or 51-60 iteration info. When combining with Erest (by shivaram), it can map the iteration number to time.
