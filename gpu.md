@@ -34,7 +34,6 @@ ring buffer: 1) for queue with fixed maximum size. 2) well-suited for FIFO, wher
 
 * Fully connected layer: send activate & error gredient vector instead of Weight Matrix.
 
-
 ## Explore bounded staleness data in ML
 
 * reduce communication => using stale parameters and update the parameters after X round of iteration.
