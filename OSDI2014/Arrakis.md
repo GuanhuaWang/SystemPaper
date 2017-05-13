@@ -7,3 +7,7 @@ The reason why I/O is slow because of OS overhead, e.g. multiplex/de-multiplexin
 Arrakis skip kernel and direct let application to get data from NIC
 
 ![](xxx.png)
+
+notes: 
+
+Storage plane: persistent data structure => no need for serialization, 
