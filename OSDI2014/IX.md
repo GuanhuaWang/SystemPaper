@@ -1,6 +1,13 @@
 # IX: A Protected Dataplane Operating System for High Throughput and Low Latency
 
+Contribution 1:
+
 Seperation of data plane and control plane.
+
+
+Contribution 2:
+
+Execution pipeline between tx and rx.
 
 Adaptive batching:
 
