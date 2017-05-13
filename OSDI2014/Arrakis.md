@@ -10,4 +10,6 @@ Arrakis skip kernel and direct let application to get data from NIC
 
 notes: 
 
-Storage plane: persistent data structure => no need for serialization, 
+Storage plane: persistent data structure , operations immediately persistent on disk
+
+=> no need for serialization, 
