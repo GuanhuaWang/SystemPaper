@@ -163,6 +163,7 @@ https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first
 2. TPU Low clock freqency. but highly parallel computing.
 
 Operations per cycle
+
 CPU	                                a few
 
 CPU (vector extension)	            tens
