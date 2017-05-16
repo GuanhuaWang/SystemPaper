@@ -158,4 +158,4 @@ Window based prediction of Loss function, give 50 iteration info., predict 51 or
 https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu
 
 ## key concepts
-1. 
+1. Systolic array: hold the intermediate data into the ALU, and communicate the itermediate data among ALUs without write it back to register or memory. The data processing flow is more like Ray.
