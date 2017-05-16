@@ -152,3 +152,10 @@ Mini-Batch (size b) SGD will introduce (root square of b) training error, compar
 ### main idea
 
 Window based prediction of Loss function, give 50 iteration info., predict 51 or 51-60 iteration info. When combining with Erest (by shivaram), it can map the iteration number to time.
+
+
+# TPU introduction
+https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu
+
+## key concepts
+1. 
