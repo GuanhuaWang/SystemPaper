@@ -171,3 +171,11 @@ CPU (vector extension)	            tens
 GPU	                                tens of thousands
 
 TPU	                                hundreds of thousands, up to 128K
+
+
+
+## Nvidia 
+
+1. GPUDirect RDMA
+
+2. NVlink
