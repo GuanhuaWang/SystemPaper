@@ -179,3 +179,5 @@ TPU	                                hundreds of thousands, up to 128K
 1. GPUDirect RDMA
 
 2. NVlink
+
+3. MxNet
