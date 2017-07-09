@@ -4,6 +4,7 @@ When one design a model or a system, it contains several assumption or designs t
 We can step backword and set them with more freedom, less restrictions.
 
 Design system without specific model.
+
 Give design more dimention of freedom.
 
 We can leverage more attributes or characteristics of user's applications
