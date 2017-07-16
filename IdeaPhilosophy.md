@@ -10,6 +10,7 @@ Give design more dimention of freedom.
 We can leverage more attributes or characteristics of user's applications
 
 machine learning / deep learning only can do/simulate what people can do.
+
 It is questionable that machine learning could predict something that people cannot do, like forcast the stock market.
 
 ### on heap v.s. off the heap in JVM
