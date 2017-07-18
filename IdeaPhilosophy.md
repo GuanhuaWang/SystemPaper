@@ -17,4 +17,3 @@ It is questionable that machine learning could predict something that people can
 https://dzone.com/articles/heap-vs-heap-memory-usage
 
 Detach control plan from data plan (e.g. Dizzle by Shivaram)
-
