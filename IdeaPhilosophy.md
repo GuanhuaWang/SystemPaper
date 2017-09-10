@@ -21,8 +21,8 @@ Detach control plan from data plan (e.g. Dizzle by Shivaram)
 
 
 ## Confidence is the key to success.
-Everyone works differently. Figure out how you like to work and what makes you most
-productive. (Do you work best in the early mornings or late evening? Do you like working
-with others or do you prefer to work by yourself? Do you work best when you have
-multiple projects or just one?) It’s a good idea to discuss these preferences with your
-advisor so they understand you better and can work with you as effectively as possible
+Everyone works differently. Figure out how you like to work and what makes you most productive. 
+
+(Do you work best in the early mornings or late evening? Do you like working with others or do you prefer to work by yourself? Do you work best when you have multiple projects or just one?) 
+
+It’s a good idea to discuss these preferences with your advisor so they understand you better and can work with you as effectively as possible
