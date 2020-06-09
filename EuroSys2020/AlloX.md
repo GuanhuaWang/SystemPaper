@@ -2,6 +2,6 @@
 
 Optimization: Min-cost bipartite matching
 
-![](bipartite-graph.png)
+![](./figs/bipartite-graph.png)
 
 Left: Jobs, Right: Compute resources (GPU, CPU, etc)
